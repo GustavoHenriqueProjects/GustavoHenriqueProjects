@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gustavo Henrique
 
-- 🔭 Estou finalizando o curso de Eletrôeletronica
-- 🌱 Estudando Desenvolvimento de Sistemas
+- 🔭 Estou finalizando o curso de Eletrôeletronica (SENAI)
+- 🌱 Estudando Desenvolvimento de Sistemas (SENAI)
 <div>
 <a href="https://github.com/GustavoHenriqueProjects">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenriqueProjects&layout=compact&langs_count=7&theme=dracula"/>
