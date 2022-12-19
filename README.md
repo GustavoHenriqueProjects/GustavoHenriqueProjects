@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gustavo Henrique
 
-- 🔭 Estou finalizando o curso de Eletrôeletronica (SENAI)
-- 🌱 Estudando Desenvolvimento de Sistemas (SENAI)
+- 🔭 Curso técnico de Eletroeletrônica finalizado (SENAI JANDIRA)
+- 🌱 Cursando 2 semestre de Desenvolvimento de Sistemas (SENAI JANDIRA)
 <div>
   <a href="https://github.com/GustavoHenriqueProjects">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenriqueProjects&layout=compact&langs_count=7&theme=dracula"/>
@@ -17,3 +17,8 @@
 
 ![Snake animation](https://github.com/GustavoHenriqueProjects/GustavoHenriqueProjects/blob/output/github-contribution-grid-snake.svg)
 
+## Contatos
+<div>
+<a href="linkedin.com/in/gustavo-h-296728210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:gustavo326silva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
