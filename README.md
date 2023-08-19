@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Gustavo Henrique
 
 - 🔭 Curso técnico de Eletroeletrônica finalizado (SENAI JANDIRA)
-- 🌱 Cursando 2 semestre de Desenvolvimento de Sistemas (SENAI JANDIRA)
+- 🌱 Cursando 3 semestre de Desenvolvimento de Sistemas (SENAI JANDIRA)
 <div>
   <a href="https://github.com/GustavoHenriqueProjects">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenriqueProjects&layout=compact&langs_count=7&theme=dracula"/>
